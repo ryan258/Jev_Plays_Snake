@@ -17,7 +17,7 @@ This project tests how well TypeSafe's Jev decision model can play the classic g
 
 ### Reports / Documentation:
 - A presentation that covers the project can be found below:
-- [Presentation Link](presentation/Jev_Plays_Snake_V1_111226.pdf)
+- [Presentation Link](Presentation/Jev_Plays_Snake_V1_111226.pdf)
 - Example run recorded:
 - [Video](https://www.youtube.com/watch?v=d_FNSkt7MnM)
 
