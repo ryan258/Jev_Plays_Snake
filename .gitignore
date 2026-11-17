@@ -1,0 +1,18 @@
+# /Source/
+/Outputs/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+jev_key.txt
+**/jev_key.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+Source/*.py.bak
